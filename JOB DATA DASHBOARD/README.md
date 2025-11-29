@@ -1,6 +1,6 @@
 # Job Data Dashborad
 
-![Main Dashborad](/JOB%20DATA%20DASHBORD/images/JOB%20DATA%20DASHBORD.gif)
+![Main Dashborad](/JOB%20DATA%20DASHBOARD/images/JOB%20DATA%20DASHBORD.gif)
 
 ## Introduction
 As someone starting out in the data field, I created this Power BI dashboard to improve my skills and gain hands-on experience with real data. One of the biggest challenges I’ve faced as a beginner is understanding the job market information is scattered, inconsistent, and hard to compare.
@@ -9,7 +9,7 @@ To solve this for myself (and others like me), I built a dashboard using a datas
 
 ## Dashboard File
 
-Here’s the file used for this project: [Report.pbix](/JOB%20DATA%20DASHBORD/Report.pbix)
+Here’s the file used for this project: [Report.pbix](/JOB%20DATA%20DASHBOARD/Report.pbixx)
 
 ## Skills I Learned & Practiced 
 This project helped me strengthen my Power BI fundamentals while also learning how to build a clean, functional report. Here’s what I focused on:
@@ -44,10 +44,10 @@ Practiced key Power BI interactive features:
 ## Dashboard Overview
 The report has two pages, each serving a different purpose.
 ### Page 1: Market Overview
-![Main Dashboard](/JOB%20DATA%20DASHBORD/images/Main%20DashBord.png)
+![Main Dashboard](/JOB%20DATA%20DASHBOARD/images/Main%20DashBord.png)
 This page gives a quick summary of the data job market-total jobs, median salaries, and top job titles. It helped me understand how to design a visually appealing and easy-to-read summary page.
 ### Page 2: Drill-Through Job Details
-![Drill Through](/JOB%20DATA%20DASHBORD/images/Drill%20Through.png)
+![Drill Through](/JOB%20DATA%20DASHBOARD/images/Drill%20Through.png)
 This page provides a deeper look into a selected job title, including salary ranges, remote opportunities, top hiring platforms, and a map of job locations. Building this page helped me practice drill-through functionality and more focused data storytelling.
 ## Conclusion
 As a beginner, this project was a great learning experience in turning raw data into something interactive and meaningful. It helped me strengthen my Power BI skills and understand how dashboards can support real-world decision-making-especially for anyone exploring a career in data.
